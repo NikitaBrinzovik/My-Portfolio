@@ -1,8 +1,7 @@
 .mainBlock {
- height: 100vh;/*высота экранa*/
+    height: 100vh; /*высота экранa*/
     background-color: #d98080;
 }
-
 
 
 .text {

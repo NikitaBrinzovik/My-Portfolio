@@ -3,6 +3,11 @@
     background-color: #a871d9;
     /*min-height: ;*/
     border: 1px solid;
+    /*justify-content: space-between;*/
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; /* только строчные внутри блочных выравнивает*/
 
 }
 
