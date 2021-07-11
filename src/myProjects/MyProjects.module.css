@@ -1,0 +1,23 @@
+.myProjectsBlock {
+    background-color: #97bee7;
+    min-height: 100vh;
+}
+
+.myProjectsContainer {
+    display: flex;
+
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.projectsList{
+    border: 2px solid aqua;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.title {
+
+}
