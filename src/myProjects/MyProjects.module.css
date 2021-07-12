@@ -1,12 +1,14 @@
 .myProjectsBlock {
-    background-color: #97bee7;
+    background-color: #e0d07d;
+
     min-height: 100vh;
 }
 
 .myProjectsContainer {
+    background: chartreuse;
     display: flex;
 
-    justify-content: space-between;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
@@ -19,5 +21,8 @@
 }
 
 .title {
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: cornflowerblue;
 }

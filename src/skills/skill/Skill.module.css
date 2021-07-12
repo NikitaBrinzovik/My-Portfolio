@@ -9,6 +9,7 @@
     align-items: center;
     text-align: center; /* только строчные внутри блочных выравнивает*/
 
+
 }
 
 .icon {
@@ -18,5 +19,6 @@
 }
 
 .description {
-
+    padding: 20px;
+    box-sizing: border-box;
 }

@@ -1,0 +1,31 @@
+.navCont {
+    border: 1px solid gray;
+    width: 100vh;
+    /*height: 100vh;*/
+    /*display: flex;*/
+    justify-content: space-evenly;/*равное и по краям и между*/
+}
+
+h3.myName{
+    background: #97e797;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactsBlock {
+    background: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 40px;
+}
+
+.rights {
+    color: rgba(255, 255, 255, .5);
+    background-color: #746565;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 26px;
+}

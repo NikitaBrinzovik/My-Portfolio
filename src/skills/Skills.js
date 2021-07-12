@@ -11,15 +11,15 @@ export function Skills() {
                 <div className={style.skills}>
                     <Skill
                         title="JS"
-                        description="11ugahufidghsduifghsdfuhgsdiuf ghdgfhdfghdfghdfgh hdghdghdhdfgh"
+                        description="11uga hufidghsdu ifghsdfuhgsdiuf ghdgfhdfghdfghdfgh hdghdghdhdfgh"
                     />
                     <Skill
                         title="СSS"
-                        description="222ugahufidghsduifghsdfuhgsdiuf ghdgfhdfghdfghdfgh hdghdghdhdfgh"
+                        description="222ugahu fidghsduifghs dfuhgsdiuf ghdgfhdfghdfghdfgh hdghdghdhdfgh"
                     />
                     <Skill
                         title="HTML"
-                        description="333ugahufduifghsdfuhgsdiuf ghdgfhdfghdfghdfgh hdghdghdhdfgh"
+                        description="333u gahufduifg hsdfuhg sdiuf ghdgfhdfghdfghdfgh hdghdghdhdfgh"
                     />
                 </div>
             </div>
